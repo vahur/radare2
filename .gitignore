@@ -147,3 +147,12 @@ libr/include/sdb
 # libFuzzer
 crash-*
 corpus*
+# Clangd
+.cache
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+# Local build/run scripts
+build.sh
+run.sh
+
